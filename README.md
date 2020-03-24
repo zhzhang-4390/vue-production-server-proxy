@@ -20,7 +20,9 @@ npm i
 
 ## Running
 ### Development Environment
-```npm run serve```
+```
+npm run serve
+```
 
 Go to http://localhost:8080 using your browser.
 
