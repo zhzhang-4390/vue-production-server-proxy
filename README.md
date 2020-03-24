@@ -32,8 +32,6 @@ This is the ```vue.config.js``` proxying.
 
 ### Production Environment
 ```
-cd vue-production-server-proxy
-
 docker build . -t demo
 
 docker run -d -p 8080:80 demo
